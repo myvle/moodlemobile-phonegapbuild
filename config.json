@@ -1,7 +1,7 @@
 {
-    "app_id": "com.myvle.staths",
-    "appname": "staths-VLE",
-    "desktopappname": "STATHS Desktop",
+    "app_id": "com.myvle.vauxhall",
+    "appname": "Vauxhall-VLE",
+    "desktopappname": "Vauxhall Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1-dev",
     "cache_update_frequency_usually": 420000,
