@@ -6,10 +6,10 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>My-VLE</name>
+    <name>STATHS-VLE</name>
 
     <description>
-        My-VLE official app
+        STATHS-VLE official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
