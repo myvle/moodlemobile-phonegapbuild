@@ -1,7 +1,7 @@
 {
-    "app_id": "com.myvle.dunnon",
-    "appname": "Dunoon-VLE",
-    "desktopappname": "Dunoon Desktop",
+    "app_id": "com.myvle.camperdown",
+    "appname": "Camperdown-VLE",
+    "desktopappname": "Camperdown Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1-dev",
     "cache_update_frequency_usually": 420000,
