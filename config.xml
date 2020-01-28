@@ -2,14 +2,14 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.myvle.dunoon"
+        id        = "com.myvle.normangardens"
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Dunoon-VLE</name>
+    <name>Normangardens-VLE</name>
 
     <description>
-        Dunoon-VLE official app
+        Normangardens-VLE official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
