@@ -1,7 +1,7 @@
 {
-    "app_id": "com.myvle.dunnon",
-    "appname": "Dunoon-VLE",
-    "desktopappname": "Dunoon Desktop",
+    "app_id": "com.myvle.normangardens",
+    "appname": "Normangardens-VLE",
+    "desktopappname": "Norman Gardens Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1-dev",
     "cache_update_frequency_usually": 420000,
